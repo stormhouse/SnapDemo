@@ -6,31 +6,47 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>D8DF3BBC-CC5E-4747-849D-72FE891DFF16</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SnapDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>3AF18F9C6F5D633BAA0B3F935459E0C777C82047</key>
 		<string>https://github.com/Masonry/Snap.git</string>
+		<key>E91B49998BB66A73C67209A1B4D96650958783C5</key>
+		<string>github.com:stormhouse/SnapDemo.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SnapDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3AF18F9C6F5D633BAA0B3F935459E0C777C82047</key>
-		<string>Snap/</string>
+		<string>../..Snap</string>
+		<key>E91B49998BB66A73C67209A1B4D96650958783C5</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Masonry/Snap.git</string>
+	<string>github.com:stormhouse/SnapDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3AF18F9C6F5D633BAA0B3F935459E0C777C82047</string>
+	<string>E91B49998BB66A73C67209A1B4D96650958783C5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E91B49998BB66A73C67209A1B4D96650958783C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SnapDemo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>3AF18F9C6F5D633BAA0B3F935459E0C777C82047</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Snap</string>
+			<string>SnapDemoSnap</string>
 		</dict>
 	</array>
 </dict>
